@@ -1,5 +1,3 @@
-console.log("This site is loaded")
-
 const weatherForce = document.querySelector('form')
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#message1')
